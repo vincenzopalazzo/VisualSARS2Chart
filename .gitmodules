@@ -1,0 +1,9 @@
+[submodule "data/us/"]
+	path = data/us/
+	url = https://github.com/nytimes/covid-19-data
+[submodule "data/world/"]
+	path = data/world/
+	url = https://github.com/vincenzopalazzo/COVID-19-world
+[submodule "data/italy/"]
+	path = data/italy/
+	url = https://github.com/pcm-dpc/COVID-19
