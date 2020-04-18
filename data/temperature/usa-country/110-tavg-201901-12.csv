@@ -1,0 +1,348 @@
+February 2018 - January 2019 Contiguous U.S. Divisional Average Temperature
+Units: Degrees Fahrenheit
+Missing: -99
+"Location ID","Location","Value","Rank","1901-2000 Mean","Anomaly (1901-2000 base period)"
+0101,"Alabama CD 1. Northern Valley",61.8,115,59.9,1.9
+0102,"Alabama CD 2. Appalachian Mountain",62.3,118,60.4,1.9
+0103,"Alabama CD 3. Upper Plains",64.0,115,62.3,1.7
+0104,"Alabama CD 4. Eastern Valley",63.4,118,61.3,2.1
+0105,"Alabama CD 5. Piedmont Plateau",63.7,119,61.8,1.9
+0106,"Alabama CD 6. Prairie",65.9,117,64.1,1.8
+0107,"Alabama CD 7. Coastal Plain",67.0,117,65.2,1.8
+0108,"Alabama CD 8. Gulf",68.6,121,66.6,2.0
+0201,"Arizona CD 1. Northwest",64.0,121,61.4,2.6
+0202,"Arizona CD 2. Northeast",53.4,120,51,2.4
+0203,"Arizona CD 3. North Central",60.9,122,58.2,2.7
+0204,"Arizona CD 4. East Central",61.5,123,58.5,3.0
+0205,"Arizona CD 5. Southwest",73.1,120,70.6,2.5
+0206,"Arizona CD 6. South Central",71.1,119,68.6,2.5
+0207,"Arizona CD 7. Southeast",64.7,122,62.3,2.4
+0301,"Arkansas CD 1. Northwest",57.8,96,56.9,0.9
+0302,"Arkansas CD 2. North Central",58.6,98,57.4,1.2
+0303,"Arkansas CD 3. Northeast",60.6,105,59.3,1.3
+0304,"Arkansas CD 4. West Central",60.7,98,59.6,1.1
+0305,"Arkansas CD 5. Central",62.1,99,61.1,1.0
+0306,"Arkansas CD 6. East Central",62.7,103,61.5,1.2
+0307,"Arkansas CD 7. Southwest",63.2,107,62,1.2
+0308,"Arkansas CD 8. South Central",64.0,106,62.8,1.2
+0309,"Arkansas CD 9. Southeast",64.1,109,62.8,1.3
+0401,"California CD 1. North Coast Drainage",53.8,120,51.8,2.0
+0402,"California CD 2. Sacramento Drainage",55.9,119,53.9,2.0
+0403,"California CD 3. Northeast Interior Basins",46.7,117,44.8,1.9
+0404,"California CD 4. Central Coast Drainage",59.8,119,57.2,2.6
+0405,"California CD 5. San Joaquin Drainage",59.1,121,56.6,2.5
+0406,"California CD 6. South Coast Drainage",62.1,120,58.9,3.2
+0407,"California CD 7. Southeast Desert Basins",66.9,122,64,2.9
+0501,"Colorado CD 1. Arkansas Drainage",50.9,115,49,1.9
+0502,"Colorado CD 2. Colorado Drainage",44.3,122,41.4,2.9
+0503,"Colorado CD 3. Kansas Drainage",51.0,99,49.5,1.5
+0504,"Colorado CD 4. Platte Drainage",46.3,110,44.5,1.8
+0505,"Colorado CD 5. Rio Grande Drainage",41.5,122,39,2.5
+0601,"Connecticut CD 1. Northwest",48.6,116,46.1,2.5
+0602,"Connecticut CD 2. Central",51.0,119,48.1,2.9
+0603,"Connecticut CD 3. Coastal",52.9,122,49.7,3.2
+0701,"Delaware CD 1. Northern",55.8,114,53.3,2.5
+0702,"Delaware CD 2. Southern",57.8,121,54.5,3.3
+0801,"Florida CD 1. Northwest",69.0,120,66.9,2.1
+0802,"Florida CD 2. North",70.6,122,68.1,2.5
+0803,"Florida CD 3. North Central",72.8,120,70.3,2.5
+0804,"Florida CD 4. South Central",74.3,121,71.7,2.6
+0805,"Florida CD 5. Everglades and Southwest Coast",76.1,122,73.6,2.5
+0806,"Florida CD 6. Lower East Coast",76.9,122,74,2.9
+0807,"Florida CD 7. Keys",78.2,121,75.7,2.5
+0901,"Georgia CD 1. Northwest",61.5,113,59.7,1.8
+0902,"Georgia CD 2. North Central",60.7,116,58.9,1.8
+0903,"Georgia CD 3. Northeast",62.2,119,60.2,2.0
+0904,"Georgia CD 4. West Central",64.6,123,62,2.6
+0905,"Georgia CD 5. Central",65.8,122,63.4,2.4
+0906,"Georgia CD 6. East Central",66.2,121,63.9,2.3
+0907,"Georgia CD 7. Southwest",67.5,120,65.6,1.9
+0908,"Georgia CD 8. South Central",67.7,120,65.6,2.1
+0909,"Georgia CD 9. Southeast",68.8,122,66.3,2.5
+1001,"Idaho CD 1. Panhandle",44.5,116,42.6,1.9
+1002,"Idaho CD 2. North Central Prairies",46.1,100,44.8,1.3
+1003,"Idaho CD 3. North Central Canyons",48.4,89,47.4,1.0
+1004,"Idaho CD 4. Central Mountains",41.5,107,39.9,1.6
+1005,"Idaho CD 5. Southwestern Valleys",51.4,113,49.8,1.6
+1006,"Idaho CD 6. Southwestern Highlands",47.1,99,45.9,1.2
+1007,"Idaho CD 7. Central Plains",48.6,115,46.4,2.2
+1008,"Idaho CD 8. Northeastern Valleys",39.8,107,38.2,1.6
+1009,"Idaho CD 9. Upper Snake River Plains",44.3,109,42.7,1.6
+1010,"Idaho CD 10. Eastern Highlands",43.3,113,41.5,1.8
+1101,"Illinois CD 1. Northwest",48.7,75,48.2,0.5
+1102,"Illinois CD 2. Northeast",49.2,84,48.5,0.7
+1103,"Illinois CD 3. West",51.8,83,51.2,0.6
+1104,"Illinois CD 4. Central",51.8,94,50.7,1.1
+1105,"Illinois CD 5. East",51.4,92,50.3,1.1
+1106,"Illinois CD 6. West Southwest",54.1,94,53.1,1.0
+1107,"Illinois CD 7. East Southeast",54.3,100,53,1.3
+1108,"Illinois CD 8. Southwest",56.8,105,55.4,1.4
+1109,"Illinois CD 9. Southeast",56.7,100,55.5,1.2
+1201,"Indiana CD 1. Northwest",50.2,88,49.2,1.0
+1202,"Indiana CD 2. North Central",50.4,99,49.1,1.3
+1203,"Indiana CD 3. Northeast",50.2,97,48.9,1.3
+1204,"Indiana CD 4. West Central",52.7,98,51.3,1.4
+1205,"Indiana CD 5. Central",52.8,106,51.3,1.5
+1206,"Indiana CD 6. East Central",52.2,111,50.4,1.8
+1207,"Indiana CD 7. Southwest",56.0,107,54.3,1.7
+1208,"Indiana CD 8. South Central",55.2,109,53.5,1.7
+1209,"Indiana CD 9. Southeast",55.2,114,53.2,2.0
+1301,"Iowa CD 1. Northwest",45.4,56,45.6,-0.2
+1302,"Iowa CD 2. North Central",45.2,59,45.3,-0.1
+1303,"Iowa CD 3. Northeast",45.7,70,45.5,0.2
+1304,"Iowa CD 4. West Central",47.6,67,47.5,0.1
+1305,"Iowa CD 5. Central",47.9,73,47.7,0.2
+1306,"Iowa CD 6. East Central",48.2,71,48,0.2
+1307,"Iowa CD 7. Southwest",49.7,71,49.6,0.1
+1308,"Iowa CD 8. South Central",50.0,74,49.8,0.2
+1309,"Iowa CD 9. Southeast",49.8,48,50.1,-0.3
+1401,"Kansas CD 1. Northwest",52.1,83,51.4,0.7
+1402,"Kansas CD 2. North Central",53.0,73,52.7,0.3
+1403,"Kansas CD 3. Northeast",53.6,89,52.9,0.7
+1404,"Kansas CD 4. West Central",53.4,83,52.6,0.8
+1405,"Kansas CD 5. Central",55.0,83,54.3,0.7
+1406,"Kansas CD 6. East Central",55.3,92,54.4,0.9
+1407,"Kansas CD 7. Southwest",55.4,86,54.6,0.8
+1408,"Kansas CD 8. South Central",56.2,75,55.9,0.3
+1409,"Kansas CD 9. Southeast",56.7,73,56.5,0.2
+1501,"Kentucky CD 1. Western",58.7,109,57.1,1.6
+1502,"Kentucky CD 2. Central",57.9,115,55.8,2.1
+1503,"Kentucky CD 3. Blue Grass",56.4,116,54.2,2.2
+1504,"Kentucky CD 4. Eastern",56.7,112,54.9,1.8
+1601,"Louisiana CD 1. Northwest",66.5,117,64.5,2.0
+1602,"Louisiana CD 2. North Central",65.9,119,64,1.9
+1603,"Louisiana CD 3. Northeast",66.0,111,64.6,1.4
+1604,"Louisiana CD 4. West Central",67.2,119,65.5,1.7
+1605,"Louisiana CD 5. Central",67.6,111,66.4,1.2
+1606,"Louisiana CD 6. East Central",68.7,120,66.6,2.1
+1607,"Louisiana CD 7. Southwest",69.6,119,67.8,1.8
+1608,"Louisiana CD 8. South Central",70.0,120,67.9,2.1
+1609,"Louisiana CD 9. Southeast",71.1,124,68.6,2.5
+1701,"Maine CD 1. North",39.4,103,38,1.4
+1702,"Maine CD 2. South Interior",44.1,109,42.3,1.8
+1703,"Maine CD 3. Coastal",45.5,110,43.6,1.9
+1801,"Maryland CD 1. Southeastern Shore",58.9,121,55.7,3.2
+1802,"Maryland CD 2. Central Eastern Shore",58.3,121,55.3,3.0
+1803,"Maryland CD 3. Lower Southern",58.3,119,55.7,2.6
+1804,"Maryland CD 4. Upper Southern",57.6,117,55.2,2.4
+1805,"Maryland CD 5. Northeastern Shore",56.8,114,54.6,2.2
+1806,"Maryland CD 6. North Central",55.0,111,52.9,2.1
+1807,"Maryland CD 7. Appalachian Mountains",53.6,112,51.7,1.9
+1808,"Maryland CD 8. Allegheny Plateau",49.2,116,47.2,2.0
+1901,"Massachusetts CD 1. West",46.8,114,44.5,2.3
+1902,"Massachusetts CD 2. Central",49.7,118,46.8,2.9
+1903,"Massachusetts CD 3. Coastal",51.3,115,48.6,2.7
+2001,"Michigan CD 1. West Upper",39.4,72,39,0.4
+2002,"Michigan CD 2. East Upper",40.6,76,40.2,0.4
+2003,"Michigan CD 3. Northwest Lower",44.5,105,42.6,1.9
+2004,"Michigan CD 4. Northeast Lower",43.8,102,42.2,1.6
+2005,"Michigan CD 5. West Central Lower",46.3,100,44.9,1.4
+2006,"Michigan CD 6. Central Lower",46.3,104,44.6,1.7
+2007,"Michigan CD 7. East Central Lower",47.2,104,45.4,1.8
+2008,"Michigan CD 8. Southwest Lower",48.7,97,47.5,1.2
+2009,"Michigan CD 9. South Central Lower",48.5,103,46.8,1.7
+2010,"Michigan CD 10. Southeast Lower",48.9,105,47,1.9
+2101,"Minnesota CD 1. Northwest",38.4,70,38.1,0.3
+2102,"Minnesota CD 2. North Central",37.8,76,37.3,0.5
+2103,"Minnesota CD 3. Northeast",36.5,69,36.2,0.3
+2104,"Minnesota CD 4. West Central",41.8,69,41.5,0.3
+2105,"Minnesota CD 5. Central",42.1,68,41.9,0.2
+2106,"Minnesota CD 6. East Central",40.8,73,40.4,0.4
+2107,"Minnesota CD 7. Southwest",42.9,38,43.6,-0.7
+2108,"Minnesota CD 8. South Central",43.8,49,44.2,-0.4
+2109,"Minnesota CD 9. Southeast",44.2,77,43.8,0.4
+2201,"Mississippi CD 1. Upper Delta",63.6,101,62.5,1.1
+2202,"Mississippi CD 2. North Central",62.8,102,61.8,1.0
+2203,"Mississippi CD 3. Northeast",62.2,107,60.9,1.3
+2204,"Mississippi CD 4. Lower Delta",65.4,114,63.8,1.6
+2205,"Mississippi CD 5. Central",64.7,114,63.1,1.6
+2206,"Mississippi CD 6. East Central",64.5,116,62.7,1.8
+2207,"Mississippi CD 7. Southwest",66.9,117,65,1.9
+2208,"Mississippi CD 8. South Central",66.9,119,65,1.9
+2209,"Mississippi CD 9. Southeast",66.6,120,64.5,2.1
+2210,"Mississippi CD 10. Coastal",68.1,121,66.2,1.9
+2301,"Missouri CD 1. Northwest Prairie",53.0,90,52.4,0.6
+2302,"Missouri CD 2. Northeast Prairie",54.1,95,53.2,0.9
+2303,"Missouri CD 3. West Central Plains",56.0,95,55.1,0.9
+2304,"Missouri CD 4. West Ozarks",56.9,97,55.9,1.0
+2305,"Missouri CD 5. East Ozarks",56.4,98,55.3,1.1
+2306,"Missouri CD 6. Bootheel",59.5,103,58.3,1.2
+2401,"Montana CD 1. Western",41.4,107,39.8,1.6
+2402,"Montana CD 2. Southwestern",39.4,101,38,1.4
+2403,"Montana CD 3. North Central",41.0,57,40.9,0.1
+2404,"Montana CD 4. Central",41.9,57,41.8,0.1
+2405,"Montana CD 5. South Central",42.6,61,42.5,0.1
+2406,"Montana CD 6. Northeastern",40.9,59,41,-0.1
+2407,"Montana CD 7. Southeastern",43.2,51,43.5,-0.3
+2501,"Nebraska CD 1. Panhandle",47.3,82,46.6,0.7
+2502,"Nebraska CD 2. North Central",47.2,68,47.2,0.0
+2503,"Nebraska CD 3. Northeast",47.3,47,47.8,-0.5
+2505,"Nebraska CD 5. Central",48.7,68,48.6,0.1
+2506,"Nebraska CD 6. East Central",49.8,72,49.7,0.1
+2507,"Nebraska CD 7. Southwest",49.9,71,49.7,0.2
+2508,"Nebraska CD 8. South Central",50.5,66,50.6,-0.1
+2509,"Nebraska CD 9. Southeast",51.1,70,51.1,0.0
+2601,"Nevada CD 1. Northwestern",50.5,109,49,1.5
+2602,"Nevada CD 2. Northeastern",46.6,110,45,1.6
+2603,"Nevada CD 3. South Central",53.6,123,50.5,3.1
+2604,"Nevada CD 4. Extreme Southern",66.4,123,63.5,2.9
+2701,"New Hampshire CD 1. North",41.3,109,39.4,1.9
+2702,"New Hampshire CD 2. South",46.0,113,43.8,2.2
+2801,"New Jersey CD 1. Northern",52.2,115,49.4,2.8
+2802,"New Jersey CD 2. Southern",55.7,119,52.7,3.0
+2803,"New Jersey CD 3. Coastal",56.0,120,52.7,3.3
+2901,"New Mexico CD 1. Northwestern Plateau",51.3,121,48.8,2.5
+2902,"New Mexico CD 2. Northern Mountains",48.5,122,46.1,2.4
+2903,"New Mexico CD 3. Northeastern Plains",56.6,115,54.7,1.9
+2904,"New Mexico CD 4. Southwestern Mountains",51.1,121,48.6,2.5
+2905,"New Mexico CD 5. Central Valley",58.3,123,55.5,2.8
+2906,"New Mexico CD 6. Central Highlands",53.0,123,50.2,2.8
+2907,"New Mexico CD 7. Southeastern Plains",60.4,119,57.8,2.6
+2908,"New Mexico CD 8. Southern Desert",61.8,123,58.9,2.9
+3001,"New York CD 1. Western Plateau",46.8,113,45,1.8
+3002,"New York CD 2. Eastern Plateau",46.0,107,44.6,1.4
+3003,"New York CD 3. Northern Plateau",41.7,106,40.1,1.6
+3004,"New York CD 4. Coastal",53.9,117,51,2.9
+3005,"New York CD 5. Hudson Valley",49.5,113,47.1,2.4
+3006,"New York CD 6. Mohawk Valley",45.6,103,44.4,1.2
+3007,"New York CD 7. Champlain Valley",43.8,108,42.1,1.7
+3008,"New York CD 8. St. Lawrence Valley",43.9,110,41.9,2.0
+3009,"New York CD 9. Great Lakes",47.4,108,45.7,1.7
+3010,"New York CD 10. Central Lakes",47.3,105,45.9,1.4
+3101,"North Carolina CD 1. Southern Mountains",55.9,120,53.8,2.1
+3102,"North Carolina CD 2. Northern Mountains",56.0,120,53.7,2.3
+3103,"North Carolina CD 3. Northern Piedmont",59.8,119,57.6,2.2
+3104,"North Carolina CD 4. Central Piedmont",60.6,118,58.4,2.2
+3105,"North Carolina CD 5. Southern Piedmont",62.4,123,59.7,2.7
+3106,"North Carolina CD 6. Southern Coastal Plain",64.0,123,61.5,2.5
+3107,"North Carolina CD 7. Central Coastal Plain",63.6,123,61,2.6
+3108,"North Carolina CD 8. Northern Coastal Plain",62.0,123,59.4,2.6
+3201,"North Dakota CD 1. Northwest",38.7,59,38.8,-0.1
+3202,"North Dakota CD 2. North Central",38.0,62,37.9,0.1
+3203,"North Dakota CD 3. Northeast",37.9,70,37.4,0.5
+3204,"North Dakota CD 4. West Central",40.6,61,40.6,0.0
+3205,"North Dakota CD 5. Central",39.1,59,39.3,-0.2
+3206,"North Dakota CD 6. East Central",39.6,57,39.8,-0.2
+3207,"North Dakota CD 7. Southwest",41.4,57,41.6,-0.2
+3208,"North Dakota CD 8. South Central",41.0,61,41.1,-0.1
+3209,"North Dakota CD 9. Southeast",40.4,49,40.9,-0.5
+3301,"Ohio CD 1. Northwest",51.2,105,49.6,1.6
+3302,"Ohio CD 2. North Central",51.3,108,49.7,1.6
+3303,"Ohio CD 3. Northeast",50.6,114,48.2,2.4
+3304,"Ohio CD 4. West Central",51.8,106,50.2,1.6
+3305,"Ohio CD 5. Central",52.8,114,50.9,1.9
+3306,"Ohio CD 6. Central Hills",51.2,113,49.2,2.0
+3307,"Ohio CD 7. Northeast Hills",51.4,113,49.2,2.2
+3308,"Ohio CD 8. Southwest",54.1,115,52,2.1
+3309,"Ohio CD 9. South Central",55.0,116,52.9,2.1
+3310,"Ohio CD 10. Southeast",53.3,114,51.3,2.0
+3401,"Oklahoma CD 1. Panhandle",57.1,92,56.3,0.8
+3402,"Oklahoma CD 2. North Central",58.8,90,58.1,0.7
+3403,"Oklahoma CD 3. Northeast",59.2,73,59,0.2
+3404,"Oklahoma CD 4. West Central",60.1,102,58.9,1.2
+3405,"Oklahoma CD 5. Central",60.5,81,60.1,0.4
+3406,"Oklahoma CD 6. East Central",61.0,80,60.6,0.4
+3407,"Oklahoma CD 7. Southwest",62.3,104,61,1.3
+3408,"Oklahoma CD 8. South Central",62.5,81,62.1,0.4
+3409,"Oklahoma CD 9. Southeast",62.0,98,61,1.0
+3501,"Oregon CD 1. Coastal Area",52.3,118,50.5,1.8
+3502,"Oregon CD 2. Willamette Valley",52.5,116,50.7,1.8
+3503,"Oregon CD 3. Southwestern Valleys",51.5,116,49.5,2.0
+3504,"Oregon CD 4. Northern Cascades",46.7,115,44.9,1.8
+3505,"Oregon CD 5. High Plateau",44.5,114,42.6,1.9
+3506,"Oregon CD 6. North Central",50.6,119,48.5,2.1
+3507,"Oregon CD 7. South Central",46.4,112,44.7,1.7
+3508,"Oregon CD 8. Northeast",45.0,113,43.4,1.6
+3509,"Oregon CD 9. Southeast",48.7,108,47,1.7
+3601,"Pennsylvania CD 1. Pocono Mountains",47.8,110,45.8,2.0
+3602,"Pennsylvania CD 2. East Central Mountains",50.8,116,48.2,2.6
+3603,"Pennsylvania CD 3. Southeastern Piedmont",53.7,115,51.2,2.5
+3604,"Pennsylvania CD 4. Lower Susquehanna",53.1,111,51,2.1
+3605,"Pennsylvania CD 5. Middle Susquehanna",50.6,111,48.9,1.7
+3606,"Pennsylvania CD 6. Upper Susquehanna",47.2,110,45.6,1.6
+3607,"Pennsylvania CD 7. Central Mountains",48.3,101,47.1,1.2
+3608,"Pennsylvania CD 8. South Central Mountains",50.8,113,49.2,1.6
+3609,"Pennsylvania CD 9. Southwest Plateau",51.0,112,49.3,1.7
+3610,"Pennsylvania CD 10. Northwest Plateau",48.1,113,46.1,2.0
+3701,"Rhode Island CD 1. Rhode Island (Entire State)",51.6,120,48.5,3.1
+3801,"South Carolina CD 1. Mountain",60.1,118,58.3,1.8
+3802,"South Carolina CD 2. Northwest",62.3,120,60.2,2.1
+3803,"South Carolina CD 3. North Central",63.1,120,60.9,2.2
+3804,"South Carolina CD 4. Northeast",65.2,123,62.7,2.5
+3805,"South Carolina CD 5. West Central",64.4,121,62.1,2.3
+3806,"South Carolina CD 6. Central",65.6,123,63.1,2.5
+3807,"South Carolina CD 7. Southern",66.8,123,64.4,2.4
+3901,"South Dakota CD 1. Northwest",43.2,49,43.6,-0.4
+3902,"South Dakota CD 2. North Central",42.2,46,42.9,-0.7
+3903,"South Dakota CD 3. Northeast",41.4,50,41.9,-0.5
+3904,"South Dakota CD 4. Black Hills",43.2,67,43.1,0.1
+3905,"South Dakota CD 5. Southwest",46.2,56,46.4,-0.2
+3906,"South Dakota CD 6. Central",44.9,53,45.4,-0.5
+3907,"South Dakota CD 7. East Central",42.8,45,43.4,-0.6
+3908,"South Dakota CD 8. South Central",46.6,55,46.8,-0.2
+3909,"South Dakota CD 9. Southeast",45.5,41,46.1,-0.6
+4001,"Tennessee CD 1. Eastern",58.6,116,56.6,2.0
+4002,"Tennessee CD 2. Cumberland Plateau",58.3,117,56.2,2.1
+4003,"Tennessee CD 3. Middle",60.1,117,58.1,2.0
+4004,"Tennessee CD 4. Western",60.8,112,59.2,1.6
+4101,"Texas CD 1. High Plains",60.2,117,58.3,1.9
+4102,"Texas CD 2. Low Rolling Plains",64.0,112,62.5,1.5
+4103,"Texas CD 3. North Central",65.7,105,64.6,1.1
+4104,"Texas CD 4. East Texas",66.8,108,65.5,1.3
+4105,"Texas CD 5. Trans Pecos",65.5,121,63.1,2.4
+4106,"Texas CD 6. Edwards Plateau",67.0,116,65.3,1.7
+4107,"Texas CD 7. South Central",70.1,109,68.7,1.4
+4108,"Texas CD 8. Upper Coast",70.7,118,68.6,2.1
+4109,"Texas CD 9. South",72.8,110,71.2,1.6
+4110,"Texas CD 10. Lower Valley",75.4,117,73.6,1.8
+4201,"Utah CD 1. Western",51.4,116,49.4,2.0
+4202,"Utah CD 2. Dixie",60.1,113,58.3,1.8
+4203,"Utah CD 3. North Central",49.7,114,47.8,1.9
+4204,"Utah CD 4. South Central",48.1,119,45.7,2.4
+4205,"Utah CD 5. Northern Mountains",42.4,119,40,2.4
+4206,"Utah CD 6. Uinta Basin",48.3,122,44.9,3.4
+4207,"Utah CD 7. Southeast",54.0,120,51.3,2.7
+4301,"Vermont CD 1. Northeastern",41.6,103,40.2,1.4
+4302,"Vermont CD 2. Western",44.2,111,42.3,1.9
+4303,"Vermont CD 3. Southeastern",44.6,113,42.3,2.3
+4401,"Virginia CD 1. Tidewater",60.2,122,57.8,2.4
+4402,"Virginia CD 2. Eastern Piedmont",58.6,118,56.5,2.1
+4403,"Virginia CD 3. Western Piedmont",57.4,116,55.4,2.0
+4404,"Virginia CD 4. Northern",55.6,118,53.2,2.4
+4405,"Virginia CD 5. Central Mountain",53.9,115,52.2,1.7
+4406,"Virginia CD 6. Southwestern Mountain",54.4,119,52.3,2.1
+4501,"Washington CD 1. West Olympic Coast",49.2,110,47.8,1.4
+4502,"Washington CD 2. North East Olympic San Juan",51.5,118,49.5,2.0
+4503,"Washington CD 3. Puget Sound Lowlands",51.9,116,50.2,1.7
+4504,"Washington CD 4. East Olympic Cascade Foothills",49.3,116,47.6,1.7
+4505,"Washington CD 5. Cascade Mountains West",44.2,117,42.2,2.0
+4506,"Washington CD 6. East Slope Cascades",43.8,119,41.6,2.2
+4507,"Washington CD 7. Okanogan Big Bend",48.1,111,46.6,1.5
+4508,"Washington CD 8. Central Basin",51.9,119,49.9,2.0
+4509,"Washington CD 9. Northeastern",44.8,115,43.2,1.6
+4510,"Washington CD 10. Palouse Blue Mountains",49.3,116,47.4,1.9
+4601,"West Virginia CD 1. Northwestern",53.9,115,51.9,2.0
+4602,"West Virginia CD 2. North Central",54.5,120,51.9,2.6
+4603,"West Virginia CD 3. Southwestern",56.4,118,54.3,2.1
+4604,"West Virginia CD 4. Central",51.1,116,49,2.1
+4605,"West Virginia CD 5. Southern",53.9,113,52.1,1.8
+4606,"West Virginia CD 6. Northeastern",53.3,116,51.4,1.9
+4701,"Wisconsin CD 1. Northwest",40.6,74,40.1,0.5
+4702,"Wisconsin CD 2. North Central",40.3,77,39.8,0.5
+4703,"Wisconsin CD 3. Northeast",41.4,86,40.5,0.9
+4704,"Wisconsin CD 4. West Central",43.9,77,43.2,0.7
+4705,"Wisconsin CD 5. Central",44.3,92,43.2,1.1
+4706,"Wisconsin CD 6. East Central",44.7,97,43.5,1.2
+4707,"Wisconsin CD 7. Southwest",46.0,85,45.4,0.6
+4708,"Wisconsin CD 8. South Central",46.1,75,45.6,0.5
+4709,"Wisconsin CD 9. Southeast",46.4,78,45.9,0.5
+4801,"Wyoming CD 1. Yellowstone Drainage",36.9,105,35.4,1.5
+4802,"Wyoming CD 2. Snake Drainage",36.4,103,35.1,1.3
+4803,"Wyoming CD 3. Green and Bear Drainage",40.7,117,38.6,2.1
+4804,"Wyoming CD 4. Big Horn",42.2,91,41,1.2
+4805,"Wyoming CD 5. Powder, Little Mo and Tongue Drainages",43.6,76,42.9,0.7
+4806,"Wyoming CD 6. Belle Fourche Drainage",43.2,69,43.1,0.1
+4807,"Wyoming CD 7. Cheyenne Niobrara Drainage",44.7,73,44.3,0.4
+4808,"Wyoming CD 8. Lower Platte",45.5,103,43.8,1.7
+4809,"Wyoming CD 9. Wind River",41.2,91,40.2,1.0
+4810,"Wyoming CD 10. Upper Platte",42.1,108,40,2.1
