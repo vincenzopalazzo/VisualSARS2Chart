@@ -1,9 +1,9 @@
-[submodule "data/us/"]
-	path = data/us/
-	url = https://github.com/nytimes/covid-19-data
-[submodule "data/world/"]
-	path = data/world/
-	url = https://github.com/vincenzopalazzo/COVID-19-world
-[submodule "data/italy/"]
-	path = data/italy/
+[submodule "data/world/COVID-19-world"]
+	path = data/world/COVID-19-world
+	url = https://github.com/CSSEGISandData/COVID-19
+[submodule "data/italy/COVID-19-italy"]
+	path = data/italy/COVID-19-italy
 	url = https://github.com/pcm-dpc/COVID-19
+[submodule "data/us/COVID-19-us"]
+	path = data/us/COVID-19-us
+	url = https://github.com/nytimes/covid-19-data
