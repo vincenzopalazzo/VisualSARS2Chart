@@ -69,7 +69,11 @@ def pars_string(valueCol):
     #print('parsString pars: ', spliStrign)
     if 'CD' in spliStrign:
         #print('parString', spliStrign[0])
-        return spliStrign[0]
+        stringPlitPos = spliStrign[3]
+        if(stringPlitPos is 'CD') or ('.' in stringPlitPos):
+            return None
+        logging.warning(spliStrign[3])
+        return spliStrign[3]
     return None
 
 
