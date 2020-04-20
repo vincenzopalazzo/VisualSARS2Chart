@@ -1,6 +1,7 @@
 # VisualSARS2Graph
 
-This project worked was build with tableau desktop and python.
+This project contains some chart about #COVID-19 in the worl, these chart are built with tableau desktop and the dataset are cleaning with python
+you can find the script in [this direcotry](src/pythoncvs-filter).
 
 # COVID19 US
 
@@ -19,14 +20,15 @@ Look inside the submodule dir to found some data and in addition, you can found 
 
 # Author
 
-I developed this project because I'm learning about the data analyctics.
+I developed this project because I'm learning about the data analyctics and is very interesting build chart on #COVID-19 because it help to stay update with the world.
 
 P.S: At this moment I'm developing other chart, if you want see any chart you can open an issue to talk about it.
 
+Thanks and stay safe.
 
 # Important
 
-This graph are build with data open source and withoud **NO** check by doctor or specialist about covid19. Please pay attentiona and if you want use this chart, you should be **TEST** this data.
+These charts are built with open source data and **without** check by doctor or specialist about covid19. Please pay attentiona and if you want use this chart, you should **TEST** these dataset and charts.
 
 # License
 

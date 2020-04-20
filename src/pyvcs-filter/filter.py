@@ -1,5 +1,5 @@
 """
-Filter cvs file with the library pandas
+Filter cvs file with the library cvs
 
 @author https://github.com/vincenzopalazzo
 """
@@ -8,7 +8,7 @@ import sys
 import logging
 
 
-# TODO description
+# TODO description and the code need refactoring
 def from_file_to_file(fromFile, toFile):
     if (fromFile is None) or (toFile is None):
         raise ValueError('From file or to file are null')
@@ -17,7 +17,7 @@ def from_file_to_file(fromFile, toFile):
         store_data(toFile, mapFilter)
 
 
-# TODO description
+# TODO description and the code need refactoring
 def extract_data(fromFile):
     with open(fromFile,) as csvfile:
         readCsv = csv.reader(csvfile, delimiter=',')
@@ -53,7 +53,7 @@ def extract_data(fromFile):
         return mapResult
 
 
-# TODO description
+# TODO description and the code need refactoring
 def store_data(toFile, data):
     with open(toFile, 'w', newline='') as csvfile:
         writeCvs = csv.writer(csvfile, delimiter=',',
@@ -63,7 +63,7 @@ def store_data(toFile, data):
             writeCvs.writerow([country, temp])
 
 
-# TODO description
+# TODO description and the code need refactoring
 def pars_string(valueCol):
     spliStrign = valueCol.split()
     #print('parsString pars: ', spliStrign)
