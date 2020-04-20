@@ -6,7 +6,7 @@ This project worked was build with tableau desktop and python.
 
 ## AVRG temperature with number cases for each country.
 
-![](subproject/covid19_us/PUB_ TemperatureFilter&Contry_COVID-19-world.png)
+![](subproject/covid19_us/PUB_TemperatureFilter&Contry_COVID-19-world.png)
 
 ## People Recovered & Tested & hospidalizate in this moment
 
