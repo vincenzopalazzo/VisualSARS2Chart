@@ -9,10 +9,21 @@ you can find the script in [this direcotry](src/pyvcs-filter).
 
 ![](subproject/covid19_us/PUB_TemperatureFilter&Contry_COVID-19-world.png)
 
-## People Recovered & Tested & hospitalize at this moment
+P.S: The results in this image is clear; with this data the virus doesn't depend from Temperature **(ONLY MY IDEA!!!!! PLEASE DONT LISTEN ME ABOUT COVID19, FOLLOW THE OFFICIAL SITE)**
 
-![](subproject/covid19_us/Recovered&Tested&inTheHospital.png)
+## People Recovered & Tested & hospitalize
 
+**April 9 2020**
+
+![](subproject/covid19_us/Recovered&Tested&inTheHospital_April_9.png)
+
+**May 16 2020**
+
+![](subproject/covid19_us/Recovered&Tested&inTheHospital_May_15.png)
+
+## Number cases #covid19 in US for each state **VS** Population estimated into 2019
+
+![](subproject/covid19_us/CasesVsPopulation/May_16_2020.png)
 
 # Dataset used
 
