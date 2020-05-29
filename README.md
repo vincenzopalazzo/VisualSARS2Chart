@@ -23,6 +23,8 @@ P.S: The results in this image is clear; with this data the virus doesn't depend
 
 ## Number cases #covid19 in US for each state **VS** Population estimated into 2019
 
+**May 16 2020**
+
 ![](subproject/covid19_us/CasesVsPopulation/May_16_2020.png)
 
 # Dataset used
