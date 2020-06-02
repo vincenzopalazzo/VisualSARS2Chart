@@ -35,7 +35,7 @@ Look inside the submodule dir to found some data and in addition, you can found 
 
 I developed this project because I'm learning about data analytics and is a very interesting build chart on #COVID-19 because it helps to stay updated with the world.
 
-P.S: At this moment I'm developing other charts if you want see any chart you can open an issue to talk about it.
+P.S: At this moment I'm developing other charts and if you want see any chart you can open an issue to talk about it.
 
 Thanks and stay safe.
 
