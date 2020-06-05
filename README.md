@@ -11,7 +11,7 @@ you can find the script in [this direcotry](src/pyvcs-filter).
 
 P.S: The results in this image is clear; with this data the virus doesn't depend from Temperature **(ONLY MY IDEA!!!! PLEASE DONT LISTEN ME ABOUT COVID19, FOLLOW THE OFFICIAL SITE)**
 
-## People Recovered & Tested & hospitalize
+## People Recovered, Tested and hospitalize
 
 **April 9 2020**
 
